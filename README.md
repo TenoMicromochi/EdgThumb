@@ -69,6 +69,10 @@ Layers are drawn from the bottom up; dots equal to the background colour are not
 
 See [DEVELOPMENT.md](DEVELOPMENT.md). `samples/icons.edg` is a small test file: `build\edgdump.exe samples\icons.edg out.png`.
 
+### Disclaimer
+
+Use EdgThumb at your own risk. It runs as part of Windows Explorer and changes the registry when installed. The author accepts no responsibility for any damage or loss caused by using it. Back up important files before installing.
+
 ### License
 
 MIT. See [LICENSE](LICENSE) and [THIRD_PARTY_LICENSES.txt](THIRD_PARTY_LICENSES.txt).
@@ -139,6 +143,10 @@ EDGE2 ファイルローダーライブラリ（MIT）を参考にした要点�
 ### ビルド
 
 [DEVELOPMENT.md](DEVELOPMENT.md) を参照してください。`samples/icons.edg` はテスト用の小さなファイルです（`build\edgdump.exe samples\icons.edg out.png`）。
+
+### 免責事項
+
+EdgThumb は自己責任でお使いください。エクスプローラーの一部として動作し、インストール時にレジストリを変更します。使用によって生じたいかなる損害・損失についても、作者は責任を負いません。大切なファイルは、インストール前にバックアップを取っておいてください。
 
 ### ライセンス
 

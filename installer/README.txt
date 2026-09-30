@@ -15,6 +15,8 @@ The background colour is transparent.
 - EDGE2 files only (1/4/8/15/16/24 bit). EDGE1 files are not supported.
 - Pixel art is enlarged or reduced by whole-number steps only, never smoothed.
 - EdgThumb.dll is not code-signed. Windows may warn about it.
+- Use at your own risk. The author accepts no responsibility for any damage
+  or loss caused by using this software.
 
 If thumbnails do not appear or are out of date, restart Explorer, or clear the
 thumbnail cache (see the project page).
@@ -33,6 +35,8 @@ EDGE2 で開いているページを、EDGE2 上の見え方のまま合成し�
 - EDGE2 形式（1/4/8/15/16/24bit）のみ対応です。EDGE1 形式は非対応です。
 - ドット絵は整数倍でのみ拡大縮小し、補間（ぼかし）をかけません。
 - EdgThumb.dll にはコード署名がありません。Windows が警告を出すことがあります。
+- 自己責任でお使いください。使用によって生じたいかなる損害・損失についても、
+  作者は責任を負いません。
 
 サムネイルが出ない、または古いままのときは、エクスプローラーを再起動するか、
 サムネイルキャッシュを消してください（プロジェクトのページを参照）。
