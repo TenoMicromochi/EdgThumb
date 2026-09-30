@@ -1,0 +1,4 @@
+LIBRARY EdgThumb
+EXPORTS
+    DllGetClassObject   PRIVATE
+    DllCanUnloadNow     PRIVATE

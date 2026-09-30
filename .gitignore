@@ -1,0 +1,5 @@
+build/
+dist/
+
+# Internal working notes (contains private file names) - never publish
+SPEC.md
