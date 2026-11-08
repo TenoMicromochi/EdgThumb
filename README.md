@@ -8,7 +8,7 @@
 
 ## English
 
-A Windows Explorer shell extension that shows thumbnails of EDGE2 (`.edg`) files.
+Windows Explorer doesn't show what's inside EDGE2 `.edg` files. That was annoying, so I made this shell extension. It shows them as thumbnails.
 
 **This is an unofficial tool. It is not affiliated with Takabo Soft.**
 Many thanks to Takabo Soft, the author of [EDGE2](https://takabosoft.com/edge2), for the editor and for publishing the [EDGE2 File Loader Library](https://takabosoft.com/download/win/edge2/edge2_loader_100.zip), which this project used as the reference for the file format.
@@ -83,7 +83,7 @@ The artwork in `samples/icons.edg` and `docs/thumbnails.png` is by Micromochi_Te
 
 ## 日本語
 
-エクスプローラーで EDGE2 の `.edg` ファイルをサムネイル表示するシェル拡張です。
+Windows のエクスプローラーで .edg ファイルの中身が見えないのが不便なので作りました。EDGE2 の `.edg` をサムネイル表示するシェル拡張です。
 
 **非公式ツールです。EDGE2 の作者 Takabo Soft とは無関係です。**
 [EDGE2](https://takabosoft.com/edge2) と、ファイル形式の参考にさせていただいた [EDGE2 ファイルローダーライブラリ](https://takabosoft.com/download/win/edge2/edge2_loader_100.zip)を公開してくださっている Takabo Soft さんに感謝します。
